@@ -1,2 +1,2 @@
 # ms-en-cs
- Malay-English Corpys
+ Malay-English Corpus
